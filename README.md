@@ -72,7 +72,4 @@ LangChain
 
 Google Generative AI (Gemini)
 
-Python 3.10+
 
-🙋‍♂️ Author
-Harshan – B.E AI & ML student | Passionate about building AI solutions
